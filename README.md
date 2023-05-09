@@ -4,3 +4,10 @@
 - OS: Ubuntu 20.04  
 - ROCM: 5.4  
 - Software: pytorch-rocm  
+
+## Step
+- bash 0-rebuild-fmha_api.sh
+- pip install .
+
+## How to use or test
+Refer: flash_attn_rocm/test_rocm.py
